@@ -1,9 +1,9 @@
 # English Fieldbook: Placement Practice
 
-Interactive Indonesian-language study workbook inspired by the topics in the Titik Nol English placement test.
+Interactive Indonesian-language study workbook covering general English vocabulary, grammar, and reading.
 
-- 14 concise topic lessons
-- 3 practice packages, 25 original questions each (75 total)
+- 38 topic lessons in 6 groups
+- 6 practice packages, 25 original questions each (150 total)
 - One question at a time, with explanations after submitting
 - Responsive single-file website; no build step required
 
